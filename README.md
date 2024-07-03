@@ -22,17 +22,17 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/authix.git
+   git clone https://github.com/md-arif-alam/authix.git
    cd authix
 2. **Install dependencies:**
 
     Backend dependencies:
-   -cd backend
-   -npm install
+    1. cd backend
+    2. npm install
    
    Frontend dependencies:
-   -cd frontend
-   -npm install
+   1. cd frontend
+   2. npm install
 
 3. **Set up environment variables:**
 
