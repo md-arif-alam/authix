@@ -109,3 +109,11 @@ authix/
 
 
 
+**Video-Demo**
+
+
+
+
+https://github.com/md-arif-alam/authix/assets/129614679/11eaf399-027d-452a-bd47-6c3b5b5dc7fc
+
+
